@@ -1,5 +1,5 @@
 {
-  "name": "Cocoon",
+  "name": "Arun's Portfolio",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,5 @@
     "gulp-uglify": "^3.0.0",
     "livereload": "^0.6.2"
   },
-  "description": "Cocoon - Portfolio"
+  "description": "Arun's Portfolio"
 }
