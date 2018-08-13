@@ -74,3 +74,13 @@
 </div>
 </div>
 <!--===================testimonial end====================-->
+
+
+
+
+
+
+
+<~--    <!--map -->
+    <div id="map" data-lon="24.036176" data-lat=" 57.039986" class="map"></div>
+    <!--map end--> --~>
