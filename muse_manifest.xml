@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arunkv.github.io" resolutions="1x" timestamp="1543513787712">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arunkv1.github.io" resolutions="1x" timestamp="1543523210707">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="369658892" ref="index"/>
+    <file name="index.css" crc="4139878043" ref="index"/>
     <file name="iefonts_index.css" crc="3786088757" ref="index"/>
   </folder>
   <folder name="assets">
@@ -15,9 +15,9 @@
     <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
     <file name="form-u5733.php" crc="191823285" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
@@ -59,8 +59,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="75-.png" crc="505622096" seo="true" ref="phone>index:tablet>index">
-      <caption webpage="index" alt=""/>
+    <file name="75-.png" crc="4284673383" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -147,10 +146,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="75-2.png" crc="4284673383" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="roastsession.png" crc="280320224" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -194,5 +189,5 @@
     </folder>
     <file name="index.html" crc="179807564" seo="true" mt="1543513781336" redirect="true"/>
   </folder>
-  <file name="index.html" crc="295913850" seo="true" mt="1543513372870" redirect="true"/>
+  <file name="index.html" crc="95080656" seo="true" mt="1543523183849" redirect="true"/>
 </manifest>
