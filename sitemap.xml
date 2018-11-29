@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://arunkv.github.io/index.html</loc>
+    <lastmod>2018-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://arunkv.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://arunkv.github.io/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/arun_2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/90-%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/80-.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/75-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/roastsession.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/ultimateprobability.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/topography.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arunkv.github.io/images/buildingflag.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://arunkv.github.io/assets/arun-kv---graphic-design.html</loc>
+    <lastmod>2018-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arunkv.github.io/assets/arun-krishnavajjala-resume.docx</loc>
+    <lastmod>2018-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
